@@ -1,6 +1,8 @@
 Wadsworth Constant Bookmarklet
 ==============================
 
+http://i.imgur.com/yxfpC.png
+
 Instructions
 ------------
 
